@@ -23,13 +23,9 @@ function App() {
   return (
     <div className="App">
       <div className="head">
-        <span>
-          <img src={logo} alt="" />
-        </span>
+        <span>⎾</span>
         <h1>Converter </h1>
-        <span>
-          <img src={logo} alt="" />
-        </span>
+        <span>⏌</span>
       </div>
 
       <div className="Inputs">
