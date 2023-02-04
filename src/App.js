@@ -75,7 +75,7 @@ function App() {
             </p>
           </div>
         </div>
-        {/* fin des 2 boutons cliquables ------------------------------------*/}
+        {/* fin des 2 boutons cliquables ---------------------------------------*/}
 
         <div className="firstInput">
           <input
