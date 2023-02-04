@@ -26,7 +26,7 @@ function App() {
         <span>
           <img src={logo} alt="" />
         </span>
-        <h1>Converter</h1>
+        <h1>Converter </h1>
         <span>
           <img src={logo} alt="" />
         </span>
